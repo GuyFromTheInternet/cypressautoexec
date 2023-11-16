@@ -1,6 +1,8 @@
 AFTER 2 DAYS OF DEVELOPMENT HOPEFULLY IT'S BEEN WORTH THE WAIT.
 THE FIRST PUBLIC AUTOEXEC "NIGHTBREAK" IS HERE!
 
+
+
 Autoexec includes:
 
 welcomes you when you enter your world
@@ -10,6 +12,8 @@ replaces the mainmenu song with a much better sounding StarlessBethlehem
 deletes the version name for more place on the screen
 
 pressing g shows you the info of the block
+
+pressing h places a stone block above you
 
 pressing f2 turns on mat_fullbright
 
@@ -53,15 +57,22 @@ pressing return(right enter) plays a demo
 
 pressing insert lets you choose the option from the "end" world edit menu
 
-pressing the up arrow spawns a invisible dude
+pressing the up arrow spawns 4 skeletons
 
-pressing the left arrow spawns a frog model
+pressing the left arrow spawns a green cat
 
 pressing the down arrow spawns a recruiter
 
-pressing the right arrow spawns 4 skeletons
+pressing the right arrow spawns an invisible dude
+
+pressing divide sets time to day (be careful, resets your milestone!)
+
+pressing multiply sets time to night (be careful, resets your milestone!)
+
 
 
 Things like mat_fullbright or no biomes will only affect chunks near you, use f10 to refresh all chunks
+
+
 
 To install the autoexec put it in your .minecraft folder 
